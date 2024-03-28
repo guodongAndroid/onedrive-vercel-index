@@ -60,7 +60,7 @@ module.exports = {
     {
       name: 'Github',
       link: 'https://github.com/guodongAndroid',
-    }，
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
